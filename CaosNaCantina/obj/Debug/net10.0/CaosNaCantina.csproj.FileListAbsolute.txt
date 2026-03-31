@@ -1,0 +1,14 @@
+C:\Users\gusta\OneDrive\Área de Trabalho\LabDotnet\CaosNaCantina\bin\Debug\net10.0\CaosNaCantina.exe
+C:\Users\gusta\OneDrive\Área de Trabalho\LabDotnet\CaosNaCantina\bin\Debug\net10.0\CaosNaCantina.deps.json
+C:\Users\gusta\OneDrive\Área de Trabalho\LabDotnet\CaosNaCantina\bin\Debug\net10.0\CaosNaCantina.runtimeconfig.json
+C:\Users\gusta\OneDrive\Área de Trabalho\LabDotnet\CaosNaCantina\bin\Debug\net10.0\CaosNaCantina.dll
+C:\Users\gusta\OneDrive\Área de Trabalho\LabDotnet\CaosNaCantina\bin\Debug\net10.0\CaosNaCantina.pdb
+C:\Users\gusta\OneDrive\Área de Trabalho\LabDotnet\CaosNaCantina\obj\Debug\net10.0\CaosNaCantina.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gusta\OneDrive\Área de Trabalho\LabDotnet\CaosNaCantina\obj\Debug\net10.0\CaosNaCantina.AssemblyInfoInputs.cache
+C:\Users\gusta\OneDrive\Área de Trabalho\LabDotnet\CaosNaCantina\obj\Debug\net10.0\CaosNaCantina.AssemblyInfo.cs
+C:\Users\gusta\OneDrive\Área de Trabalho\LabDotnet\CaosNaCantina\obj\Debug\net10.0\CaosNaCantina.csproj.CoreCompileInputs.cache
+C:\Users\gusta\OneDrive\Área de Trabalho\LabDotnet\CaosNaCantina\obj\Debug\net10.0\CaosNaCantina.dll
+C:\Users\gusta\OneDrive\Área de Trabalho\LabDotnet\CaosNaCantina\obj\Debug\net10.0\refint\CaosNaCantina.dll
+C:\Users\gusta\OneDrive\Área de Trabalho\LabDotnet\CaosNaCantina\obj\Debug\net10.0\CaosNaCantina.pdb
+C:\Users\gusta\OneDrive\Área de Trabalho\LabDotnet\CaosNaCantina\obj\Debug\net10.0\CaosNaCantina.genruntimeconfig.cache
+C:\Users\gusta\OneDrive\Área de Trabalho\LabDotnet\CaosNaCantina\obj\Debug\net10.0\ref\CaosNaCantina.dll
